@@ -135,5 +135,4 @@ There are some hooks under the `layouts/partials/hooks` folder for showing how t
 ## Documentations
 
 - [English](https://hbs.razonyang.com/v1/en/)
-- [简体中文](https://hbs.razonyang.com/v1/zh-hans/)
-- [繁體中文](https://hbs.razonyang.com/v1/zh-hant/)
+
